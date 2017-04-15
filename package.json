@@ -1,7 +1,7 @@
 {
 	"name": "fahrplan-node",
 	"version": "0.1.0",
-	"description": "fahrplan-node is a simple Fahrplan API wrapper made for everyone with useful methods using promises and snekfetch",
+	"description": "Simple Fahrplan API wrapper made for everyone with useful methods using promises and snekfetch",
 	"main": "hello-world-server.js",
 	"scripts": 
 	{
