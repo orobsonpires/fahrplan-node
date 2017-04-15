@@ -18,6 +18,7 @@
 
 	"author": "Robson Pires <orobsonpires@gmail.com>",
 	"license": "MIT",
+	"url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT",
 	"readmeFilename": "README.md",
 	"dependencies": 
 	{
